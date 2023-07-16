@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/RasCoder17/RasCoder17/blob/main/ras.jpeg" width="400" height="400"/>
 </p>
-<p>
+<p>giphy.gif
   <h1 align="center"><b>Hello there, I'm Rahul Kumar S 👋</b></h1>
 </p>
 
@@ -19,7 +19,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="270px" alt="GIF" src="https://github.com/RasCoder17/RasCoder17/blob/main/giphy.gif" />
 
 ### I am a Software Developer pursuing BTECH CSE
 
