@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ricksaha2000/jayitsaha/blob/master/jayit.jpg" width="400" height="400"/>
+
 </p>
 <p>
   <h1 align="center"><b>Hello there, I'm Rahul Kumar S 👋</b></h1>
