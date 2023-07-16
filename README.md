@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/RasCoder17/ras.jpeg" width="400" height="400"/>
+<img src="https://github.com/RasCoder17/RasCoder17/blob/main/ras.jpeg" width="400" height="400"/>
 </p>
 <p>
   <h1 align="center"><b>Hello there, I'm Rahul Kumar S 👋</b></h1>
