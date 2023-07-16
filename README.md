@@ -1,5 +1,5 @@
 <p align="center">
-<!-- <img src="https://github.com/ricksaha2000/jayitsaha/blob/master/jayit.jpg" width="400" height="400"/> -->
+<img src="https://github.com/ricksaha2000/jayitsaha/blob/master/jayit.jpg" width="400" height="400"/>
 </p>
 <p>
   <h1 align="center"><b>Hello there, I'm Rahul Kumar S 👋</b></h1>
@@ -68,9 +68,9 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=ricksaha2000&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Jayit's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=RasCoder17&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Jayit's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=ricksaha2000&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Jayit's Top Languages">
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=RasCoder17&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Jayit's Top Languages">
 
 <!-- stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
