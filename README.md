@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/rahul-kumar-srinivasan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:rahul172002@gmail.com?subject=Hello%20Rahul"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://rasrini.netlify.app/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RasCoder17&label=Profile%20views&color=0e75b6&style=flat" alt="Rahul-Kumar-S" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=RasCoder17&label=Profile%20views&color=0e75b6&style=flat" alt="Rahul-Kumar-S" /> </p> -->
 </p>
 
 <br>
