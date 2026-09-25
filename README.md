@@ -83,14 +83,6 @@
 
 <br>
 
-### :zap: GitHub Stats
-<!-- Added &cache_seconds=1800 to ensure stats update concurrently with your commits rather than serving heavily cached data -->
-<p align="left">
-  <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=RasCoder17&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&cache_seconds=1800" alt="Rahul's Github Stats" width="60%">
-</p>
-
-<br>
-
 <div align="center">
 
 [linkedin]: https://www.linkedin.com/in/rahul-kumar-srinivasan/
