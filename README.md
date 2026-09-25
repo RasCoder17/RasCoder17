@@ -2,13 +2,13 @@
 <img src="https://github.com/RasCoder17/RasCoder17/blob/main/1 image.jpeg" width="400" height="400"/>
 </p>
 <p>
-  <h1 align="center"><b>Hello there, I'm Rahul Kumar S 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Rahul Kumar Srinivasan 👋</b></h1>
 </p>
 
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/rahul-kumar-srinivasan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:rahulkumarsrinivasan17@gmail.com?subject=Hello%20Rahul"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:rahulkumarsr@umass.edu?subject=Hello%20Rahul"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://rasrini.netlify.app/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
 </p>
 
